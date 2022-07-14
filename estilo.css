@@ -3,3 +3,10 @@ h1 {
     color: orange;
 }
 
+ul {
+    background-color: azure;
+}
+
+p, ul {
+    background-color: azure;
+}
