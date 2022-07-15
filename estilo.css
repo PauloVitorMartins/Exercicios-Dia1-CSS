@@ -7,22 +7,22 @@
 }
 
 #name {
-   
-    color: #00767C;
+    padding-top: 2%;
+    color: #ffffff;
     margin-left: 30%;
     margin-right: 20%;
 }
 
 .elementosDivMaior {
     margin-top: 5%;
-    margin-left: 35%;
+    margin-left: 30%;
     margin-right: 20%;
 
 }
 
 .backgroundManeiro {
     margin-left: 25%;
-    background-color: white;
+    background-color: #30363d;
     border-radius: 10%;
     width: 50%;
     height: 60em;
@@ -30,5 +30,16 @@
 
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #00767C;
+    background-color: #0d1117;
+    color:#8b949e ;
+}
+
+a {
+    margin-left: 10%;
+    text-decoration: none;
+    color:#58a6ff ; 
+}
+
+h3 {
+    color: white;
 }
