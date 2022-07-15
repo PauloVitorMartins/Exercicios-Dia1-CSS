@@ -23,9 +23,9 @@
 .backgroundManeiro {
     margin-left: 25%;
     background-color: #30363d;
-    border-radius: 10%;
+    border-radius: 5%;
     width: 50%;
-    height: 60em;
+    height: 80em;
 }
 
 body {
@@ -43,3 +43,33 @@ a {
 h3 {
     color: white;
 }
+
+.Links {
+    margin-left: 8%;
+}
+
+.fotos1 {
+    margin-left: -50%;
+    float: left;
+    border-radius: 40%;
+    width: 50%;
+    height: 12em;
+    
+}
+
+.fotos2 {
+    margin-right: -20%;
+    float: right;
+    border-radius: 20%;
+    width: 50%;
+    height: 100%;
+}
+
+.fotos3 {
+    margin-left: -20%;
+    margin-top: 35%;
+    border-radius: 20%;
+    width: 50%;
+    height: 100%;
+}
+
